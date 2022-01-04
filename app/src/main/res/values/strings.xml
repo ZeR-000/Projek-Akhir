@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ProjekAhir</string>
+    <string-array name="Nama">
+        <item>Muhammad Ardhi N.R</item>
+        <item>Muchammad Arkan A.S</item>
+        <item>Muhammad Hasan S</item>
+    </string-array>
+    <string-array name="Nim">
+        <item>1918090</item>
+        <item>1918094</item>
+        <item>1918097</item>
+    </string-array>
 </resources>

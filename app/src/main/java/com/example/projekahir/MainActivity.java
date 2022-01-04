@@ -25,5 +25,9 @@ public class MainActivity extends AppCompatActivity {
         Intent b = new Intent(MainActivity.this, MainRead.class);
         startActivity(b);
     }
+    public void btn_profile(View view) {
+        Intent c = new Intent(MainActivity.this, Profile.class);
+        startActivity(c);
+    }
 
 }

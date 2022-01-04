@@ -20,6 +20,7 @@
         <activity android:name=".MainCreate"></activity>
         <activity android:name=".MainUpdel"></activity>
         <activity android:name=".MainRead"></activity>
+        <activity android:name=".Profile"></activity>
         <activity
             android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
             android:theme="@style/Base.Theme.AppCompat" />

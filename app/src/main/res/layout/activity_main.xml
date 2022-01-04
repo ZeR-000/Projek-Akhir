@@ -40,4 +40,13 @@
         android:onClick="btn_read"
         android:text="read"
         android:textColor="#3557FF" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#F8F7F7"
+        android:onClick="btn_profile"
+        android:text="profile tim"
+        android:textColor="#3557FF" />
 </LinearLayout>
